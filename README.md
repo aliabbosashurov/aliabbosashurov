@@ -77,8 +77,8 @@ I’m a passionate **Java Developer** with experience in building high-performan
 </div>
 
 <div style="margin-top: 10px;">
-  <a href="mailto:aliabbosashurov@gmail.com" style="text-decoration: none;">
-    <img src="https://media.giphy.com/media/3o6gE6a03VQWQXHD7e/giphy.gif" alt="Email GIF" width="60" height="60"/>
+  <a href="mailto:aliabbosashurov@gmail.com" style="text-decoration: none; font-size: 20px; color: #0073e6;">
+    📧 Email me
   </a>
 </div>
 
