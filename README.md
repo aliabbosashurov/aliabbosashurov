@@ -81,9 +81,6 @@ I’m a passionate **Java Developer** with experience in building high-performan
   <a href="https://t.me/Aliabbos_Ashurov" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="55" height="55"/>
   </a>
-  <a href="https://www.instagram.com/aliabbos_ashurov/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="55" height="55"/>
-  </a>
 </div>
 <div style="margin-top: 10px;">
   <a href="mailto:aliabbosashurov@gmail.com" target="_blank" style="text-decoration: none; font-size: 20px; color: #0073e6;">
