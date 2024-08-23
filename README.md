@@ -53,7 +53,7 @@ I’m a passionate **Java Developer** with experience in building high-performan
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.restapi.com/" target="_blank" rel="noreferrer">
-  <img src="https://images.app.goo.gl/jPQpxQb6CxGTfCgS9" alt="rest api" width="40" height="40"/>
+  <img src="https://images.app.goo.gl/t7YuS7yUXZZ3nWhF6" alt="rest api" width="40" height="40"/>
 </a>
 </p>
 
