@@ -75,37 +75,6 @@ I’m a passionate **Java Developer** with experience in building high-performan
     <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook GIF" width="60" height="60"/>
   </a>
 </div>
-
-# GitHub Profile 3D Contrib Workflow
-
-## Workflow Configuration
-
-```yaml
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
-
 <div style="margin-top: 10px;">
   <a href="mailto:aliabbosashurov@gmail.com" style="text-decoration: none; font-size: 20px; color: #0073e6;">
     📧 Email me
