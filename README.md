@@ -62,7 +62,6 @@ I’m a passionate **Java Developer** with experience in building high-performan
 
 ---
 ### 📈 Contributions:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aliabbos-Ashurov&theme=dark)
 <img src="https://i.sstatic.net/tXpJR.gif" alt="Contributions GIF" width="100%" height="auto"/>
 
 ---
