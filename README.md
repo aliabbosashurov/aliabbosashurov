@@ -54,10 +54,6 @@ I’m a passionate **Java Developer** with experience in building high-performan
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.restapi.com/" target="_blank" rel="noreferrer">
-    <img src="https://images.app.goo.gl/t7YuS7yUXZZ3nWhF6" alt="rest api" width="60" height="60"/>
-  </a>
 </p>
 
 ---
