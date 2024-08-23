@@ -16,7 +16,7 @@ I’m a passionate **Java Developer** with experience in building high-performan
 - **Version Control**: Git, GitHub, GitLab
 
 ### 📊 GitHub Stats:
-![Abbos' GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Abbos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliabbos-Ashurov&show_icons=true&theme=dark)
 
 ### ⚙️ GitHub Metrics:
 ![Metrics](https://github.com/your-username/your-username/blob/main/github-metrics.svg)
