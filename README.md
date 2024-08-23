@@ -66,7 +66,7 @@ I’m a passionate **Java Developer** with experience in building high-performan
 ### 🔗 Connect with me:
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 10px;">
-  <a href="https://www.linkedin.com/in/aliabbosashurov" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/aliabbos-ashurov-4b64b628b/" target="_blank" style="text-decoration: none;">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn GIF" width="60" height="60"/>
   </a>
   <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;">
