@@ -69,8 +69,8 @@ I’m a passionate **Java Developer** with experience in building high-performan
   <a href="https://www.linkedin.com/in/aliabbos-ashurov-4b64b628b/" target="_blank" style="text-decoration: none;">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn GIF" width="60" height="60"/>
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;">
-    <img src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="Twitter GIF" width="60" height="60"/>
+  <a href="https://twitter.com/aliabbos" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter GIF" width="60" height="60"/>
   </a>
   <a href="https://discord.com/invite/yourinvitecode" target="_blank" style="text-decoration: none;">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord GIF" width="60" height="60"/>
@@ -79,7 +79,7 @@ I’m a passionate **Java Developer** with experience in building high-performan
     <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook GIF" width="60" height="60"/>
   </a>
   <a href="https://t.me/Aliabbos_Ashurov" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Telegram_Icon.png" alt="Telegram" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="60" height="60"/>
   </a>
   <a href="https://www.instagram.com/aliabbos_ashurov/" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60" height="60"/>
