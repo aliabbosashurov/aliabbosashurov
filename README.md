@@ -1,4 +1,7 @@
-# Hi there, I'm Abbos 👋
+<h1 align="center">
+  Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Abbos</a> 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
 ### 👨‍💻 About Me:
 I’m a passionate **Java Developer** with experience in building high-performance applications. I love exploring new technologies and improving my skills in software development.
