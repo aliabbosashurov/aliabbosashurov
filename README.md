@@ -79,10 +79,10 @@ I’m a passionate **Java Developer** with experience in building high-performan
     <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook GIF" width="60" height="60"/>
   </a>
   <a href="https://t.me/Aliabbos_Ashurov" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="55" height="55"/>
   </a>
   <a href="https://www.instagram.com/aliabbos_ashurov/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="55" height="55"/>
   </a>
 </div>
 <div style="margin-top: 10px;">
