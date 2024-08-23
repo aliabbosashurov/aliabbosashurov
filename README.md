@@ -52,8 +52,8 @@ I’m a passionate **Java Developer** with experience in building high-performan
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.restapitutorial.com/" target="_blank" rel="noreferrer">
-    <img src="[https://images.app.goo.gl/fNJgoWvkNSAfLdgh7](https://images.app.goo.gl/mecqb4EGVyTo5UMfA)" alt="rest api" width="40" height="40"/>
+  <a href="https://www.restapi.com/" target="_blank" rel="noreferrer">
+    <img src="https://images.app.goo.gl/mecqb4EGVyTo5UMfA" alt="rest api" width="40" height="40"/>
   </a>
 </p>
 
