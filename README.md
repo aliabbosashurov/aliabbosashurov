@@ -75,7 +75,7 @@ I’m a passionate **Java Developer** with experience in building high-performan
   <a href="https://discord.com/invite/yourinvitecode" target="_blank" style="text-decoration: none;">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord GIF" width="60" height="60"/>
   </a>
-  <a href="https://www.facebook.com/yourusername" target="_blank" style="text-decoration: none;">
+  <a href="https://www.facebook.com/aliabbos.ashurov/" target="_blank" style="text-decoration: none;">
     <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook GIF" width="60" height="60"/>
   </a>
 </div>
