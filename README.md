@@ -61,7 +61,6 @@ I’m a passionate **Java Developer** with experience in building high-performan
 </p>
 
 ---
-### 📈 Contributions:
 <img src="https://i.sstatic.net/tXpJR.gif" alt="Contributions GIF" width="100%" height="auto"/>
 
 ---
