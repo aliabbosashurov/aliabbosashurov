@@ -13,48 +13,48 @@ I’m a passionate **Java Developer** with experience in building high-performan
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://jakarta.ee/" target="_blank" rel="noreferrer">
-    <img src="https://jakarta.ee/images/jakarta-ee-logo.png" alt="jakarta ee" width="40" height="40"/>
+    <img src="https://jakarta.ee/images/jakarta-ee-logo.png" alt="jakarta ee" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.restapi.com/" target="_blank" rel="noreferrer">
-  <img src="https://images.app.goo.gl/t7YuS7yUXZZ3nWhF6" alt="rest api" width="40" height="40"/>
-</a>
+    <img src="https://images.app.goo.gl/t7YuS7yUXZZ3nWhF6" alt="rest api" width="60" height="60"/>
+  </a>
 </p>
 
 ---
@@ -84,4 +84,3 @@ I’m a passionate **Java Developer** with experience in building high-performan
     📧 Email me
   </a>
 </div>
-
