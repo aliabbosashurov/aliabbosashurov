@@ -43,13 +43,6 @@ I’m a passionate **Java Developer** with experience in building high-performan
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-![Abbos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliabbos-Ashurov&show_icons=true&theme=dark)
-
-### ⚙️ GitHub Metrics:
-![Metrics](https://github.com/Aliabbos-Ashurov/blob/main/github-metrics.svg)
-
 ### 📈 Contributions:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aliabbos-Ashurov&theme=dark)
 
