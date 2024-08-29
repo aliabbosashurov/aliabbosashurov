@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me:
 I’m a passionate **Java Developer** with experience in building high-performance applications. I love exploring new technologies and improving my skills in software development.
 
-- 🌱 I’m currently learning **Spring Boot 3.3.2** and **Java 21**
+- 🌱 I’m currently learning **Spring Boot ** and **Java 21**
 - 👯 I’m looking to collaborate on interesting Java projects
 - 💬 Ask me about Java, Spring Boot, REST APIs, and anything tech-related
 
