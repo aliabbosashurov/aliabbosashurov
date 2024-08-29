@@ -13,7 +13,6 @@ I’m a passionate **Java Developer** with experience in building high-performan
 
 ---
 
-
 ## 🛠️ Technologies & Tools:
 
 <p align="left">
@@ -60,9 +59,7 @@ I’m a passionate **Java Developer** with experience in building high-performan
 
 ---
 <img src="https://i.sstatic.net/tXpJR.gif" alt="Contributions GIF" width="100%" height="auto"/>
-
 ---
-
 ### 🔗 Connect with me:
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 10px;">
