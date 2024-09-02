@@ -1,0 +1,21 @@
+name: Generate Isometric Commit Calendar
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Runs once a week (Sunday at midnight)
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v3
+
+      - name: Setup Metrics Plugin
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}  # GitHub token with repo scope
+          base: ""  # Optional: customize the base template
+          plugin_isocalendar: yes  # Enable the isometric calendar plugin
+          plugin_isocalendar_duration: full-year  # Options: 'half-year' or 'full-year'
+          filename: metrics.plugin.isocalendar.fullyear.svg  # Output file name (adjust based on duration)
