@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}  # GitHub token with repo scope
           base: ""  # Optional: customize the base template
           plugin_isocalendar: yes  # Enable the isometric calendar plugin
-          plugin_isocalendar_duration: full-year  # Options: 'half-year' or 'full-year'
+          plugin_isocalendar_duration: half-year  # Options: 'half-year' or 'full-year'
           filename: metrics.plugin.isocalendar.fullyear.svg  # Output file name (adjust based on duration)
       
       - name: Commit and Push Generated SVG
