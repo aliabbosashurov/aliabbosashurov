@@ -19,3 +19,11 @@ jobs:
           plugin_isocalendar: yes  # Enable the isometric calendar plugin
           plugin_isocalendar_duration: full-year  # Options: 'half-year' or 'full-year'
           filename: metrics.plugin.isocalendar.fullyear.svg  # Output file name (adjust based on duration)
+      
+      - name: Commit and Push Generated SVG
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add metrics.plugin.isocalendar.fullyear.svg
+          git commit -m "Add generated isometric calendar"
+          git push
