@@ -85,4 +85,4 @@ I’m a passionate **Java Developer** with experience in building high-performan
 </div>
 
 ## 📅 My GitHub Isometric Commit Calendar
-![GitHub Isometric Commit Calendar](https://github.com/Aliabbos-Ashurov/Aliabbos-Ashurov/blob/main/metrics.plugin.isocalendar.svg)
+![GitHub Isometric Commit Calendar](https://github.com/Aliabbos-Ashurov/Aliabbos-Ashurov/blob/main/metrics.plugin.isocalendar.fullyear.svg)
