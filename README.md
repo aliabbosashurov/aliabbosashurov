@@ -2,7 +2,7 @@
   Hi there, I'm Abbos</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="55" width="45"/>
 </h1>
-
+![Isometric Commit Calendar](./metrics.plugin.isocalendar.fullyear.svg)
 ### 👨‍💻 About Me:
 I’m a passionate **Java Developer** with experience in building high-performance applications. I love exploring new technologies and improving my skills in software development.
 
@@ -83,3 +83,4 @@ I’m a passionate **Java Developer** with experience in building high-performan
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Email_icon.svg" alt="Email" width="20" height="20"/> 📧 Email me
   </a>
 </div>
+
