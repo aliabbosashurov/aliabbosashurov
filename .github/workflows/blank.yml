@@ -10,15 +10,16 @@ jobs:
     steps:
       - name: Checkout repository content
         uses: actions/checkout@v3
+        timeout-minutes: 10  # Set timeout to 10 minutes
 
       - name: Setup Metrics Plugin
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}  # GitHub token with repo scope
-          base: ""  # Optional: customize the base template
-          plugin_isocalendar: yes  # Enable the isometric calendar plugin
-          plugin_isocalendar_duration: half-year  # Options: 'half-year' or 'full-year'
-          filename: metrics.plugin.isocalendar.fullyear.svg  # Output file name (adjust based on duration)
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          filename: metrics.plugin.isocalendar.fullyear.svg
+        timeout-minutes: 10  # Set timeout for this step too
       
       - name: Commit and Push Generated SVG
         run: |
