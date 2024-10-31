@@ -4,7 +4,7 @@
 </h1>
 
 ### 👨‍💻 About Me:
-I’m a passionate **Java Developer** with experience in building high-performance applications. I love exploring new technologies and improving my skills in software development.
+I’m a **Java Developer** with experience in building high-performance applications. I love exploring new technologies and improving my skills in software development.
 
 - 🌱 I’m currently learning **Spring Boot** and **Java 21**
 - 👯 I’m looking to collaborate on interesting Java projects
