@@ -57,9 +57,6 @@ I’m a **Java Developer** with experience in building high-performance applicat
   </a>
 </p>
 
----
-<img src="https://i.sstatic.net/tXpJR.gif" alt="Contributions GIF" width="100%" height="auto"/>
----
 ### 🔗 Connect with me:
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 10px;">
@@ -82,5 +79,3 @@ I’m a **Java Developer** with experience in building high-performance applicat
   </a>
 </div>
 
-## 📅 My GitHub Isometric Commit Calendar
-![GitHub Isometric Commit Calendar](https://github.com/Aliabbos-Ashurov/Aliabbos-Ashurov/blob/main/metrics.plugin.isocalendar.fullyear.svg)
