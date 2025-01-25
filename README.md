@@ -45,3 +45,6 @@
 	<a href="https://www.twitch.tv/username"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/></a>
 	<a href="https://www.youtube.com/channel/username"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
 </p>
+<d>
+	[![Aliabbos' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aliabbos-Ashurov)](https://github.com/Aliabbos-Ashurov/github-readme-activity-graph)
+</d>
