@@ -57,4 +57,4 @@
 
 </p>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Aliabbos-Ashurov&theme=react-dark&hide_title=true&hide_border=true)](https://github.com/Aliabbos-Ashurov/github-readme-activity-graph)
+<!-- [![](https://github-readme-activity-graph.vercel.app/graph?username=Aliabbos-Ashurov&theme=react-dark&hide_title=true&hide_border=true)](https://github.com/Aliabbos-Ashurov/github-readme-activity-graph) -->
