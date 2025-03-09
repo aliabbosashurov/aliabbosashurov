@@ -13,7 +13,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
-  # <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+  <!-- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />   -->
   <img alt="OracleDB" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
