@@ -1,6 +1,17 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey! Nice to see you.
+</h1>
 
-<p>Welcome to my page! </br> I'm Abbos, Software Engineer. Expertise in designing and maintaining scalable backend systems.
+<p>
+  Welcome to my page!  
+</p>
+<p>
+  I’m <b>Aliabbos Ashurov</b>, a <b>Software Engineer</b> specializing in <b>Java</b>, <b>Spring Boot</b>, and <b>distributed systems</b>.
+  I focus on building <b>scalable microservices</b>, <b>event-driven architectures</b>, and <b>cloud-native applications</b>.  
+  I enjoy designing clean, maintainable systems that balance performance, reliability, and simplicity — turning complex requirements into elegant engineering solutions.  
+  Passionate about high-quality code, automation, and continuous improvement, I’m always exploring better ways to build and scale software.
+</p>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
